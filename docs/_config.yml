@@ -20,8 +20,8 @@
 
 title: Homepage
 email: siwei.feng@rutgers.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Siwei Feng is a fourth year CS Ph.D. student at Rutgers University.
+description:  # this means to ignore newlines until "baseurl:"
+  Siwei Feng is a fourth year CS Ph.D. student at Rutgers University
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -32,6 +32,7 @@ github:
 
 # Build settings
 theme: jekyll-theme-leap-day
+remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
   - jekyll-feed
 
