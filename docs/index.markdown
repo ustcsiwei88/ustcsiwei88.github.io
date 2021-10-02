@@ -6,7 +6,7 @@ layout: default
 I am a fourth year CS Ph.D. student working on Robotics at [Rutgers Robotics Lab](https://robotics.cs.rutgers.edu).
 I am advised by Prof. [Jingjin Yu](https://arc.cs.rutgers.edu) to develop and implement algorithms
 for multi robot systems. 
-Before, I got my bachelor's degree on computer science from [USTC](https://en.ustc.edu.cn/).
+Before that, I got my bachelor's degree on computer science from [USTC](https://en.ustc.edu.cn/).
 
 <!-- 
 
@@ -79,7 +79,8 @@ divt {
       </video>
     </td>
     <td>
-      "On Minimizing the Number of Running Buffers for Tabletop Rearrangement." Kai Gao, <b>Si Wei Feng</b>, Jingjin Yu. Robotics: Science and Systems (R:SS 2021) <a href="https://arxiv.org/pdf/2105.06357.pdf"> paper </a>
+      "On Minimizing the Number of Running Buffers for Tabletop Rearrangement." Kai Gao, <b>Si Wei Feng</b>, Jingjin Yu. Robotics: Science and Systems (R:SS 2021) 
+      <a href="https://arxiv.org/pdf/2105.06357.pdf"> paper </a>
     </td>
   </tr>
 
@@ -91,7 +92,8 @@ divt {
       </video>
     </td>
     <td>
-      Toward Fully Automated Metal Recycling Using Computer Vision and Non-Prehensile Manipulation." Shuai D. Han, Baichuan Huang, Sijie Ding, Changkyu Song, <b>Si Wei Feng</b>, Ming Xu, Hao Lin, Qingze Zou, Abdeslam Boularias, Jingjin Yu. IEEE International Conference on Automation Science & Engineering (CASE 2021). <a href = "https://arc-l.github.io/files/HanHuaYu21CASE.pdf"> paper</a>
+      Toward Fully Automated Metal Recycling Using Computer Vision and Non-Prehensile Manipulation." Shuai D. Han, Baichuan Huang, Sijie Ding, Changkyu Song, <b>Si Wei Feng</b>, Ming Xu, Hao Lin, Qingze Zou, Abdeslam Boularias, Jingjin Yu. IEEE International Conference on Automation Science & Engineering (CASE 2021). 
+      <a href = "https://arc-l.github.io/files/HanHuaYu21CASE.pdf">paper</a>
     </td>
   </tr>
 
@@ -104,7 +106,10 @@ divt {
       <img src = "resources/icu-expo.png" alt="osg2d" width = "180" />
     </td>
     <td>
-      Sensor Placement for Globally Optimal Coverage of 3D-Embedded Surfaces." <b>Si Wei Feng</b>, Kai Gao, Jie Gong, Jingjin Yu. International Conference on Robotics and Automation (ICRA 2021). <a href = "https://arxiv.org/pdf/2103.10521.pdf"> paper</a>
+      Sensor Placement for Globally Optimal Coverage of 3D-Embedded Surfaces." <b>Si Wei Feng</b>, Kai Gao, Jie Gong, Jingjin Yu. International Conference on Robotics and Automation (ICRA 2021). 
+      <a href = "https://arxiv.org/pdf/2103.10521.pdf"> paper</a>, 
+      <a href = "https://youtu.be/i5D-rCRcCpc">talk</a>, 
+      <a href = "https://github.com/arc-l/3d_coverage">code</a>
     </td>
   </tr>
 
@@ -117,8 +122,11 @@ divt {
     </td>
     <td>
       "Team RuBot’s Experiences and Lessons from the ARIAC." <b>Si Wei Feng</b>, Teng Guo, Kostas E. Bekris and Jingjin Yu. Robotics and Computer-Integrated Manufacturing, 70, 102126. (RCIM 2020)). 
-      <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0736584521000120"> paper</a>
-      <a href = "https://youtu.be/7H7YLeJz2zE?t=3"> video </a>
+      <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0736584521000120"> paper</a>, 
+      <a href = "https://youtu.be/7H7YLeJz2zE?t=3"> video</a>, 
+      code:
+      <a href = "https://github.com/ustcsiwei88/RuBot"> rubot2019</a>,  
+      <a href = "https://github.com/ustcsiwei88/rubot2020">rubot2020 </a>
     </td>
   </tr>
 
@@ -127,7 +135,10 @@ divt {
     <img src = "resources/osg2d.png" alt="osg2d" width = "180" />
     </td>
     <td>
-    "Optimally Guarding Perimeters and Regions with Mobile Range Sensors." <b>Si Wei Feng</b> and Jingjin Yu. Robotics: Science and Systems (RSS 2020). <a href="https://arxiv.org/pdf/2002.08477.pdf"> paper </a> <a href="https://youtu.be/1-PsAmQlVw8"> talk </a>
+    "Optimally Guarding Perimeters and Regions with Mobile Range Sensors." <b>Si Wei Feng</b> and Jingjin Yu. Robotics: Science and Systems (RSS 2020). 
+    <a href="https://arxiv.org/pdf/2002.08477.pdf"> paper</a>, 
+    <a href="https://youtu.be/1-PsAmQlVw8"> talk</a>, 
+    <a href="https://github.com/ustcsiwei88/2D_Coverage"> code </a>
     </td>
   </tr>
 
@@ -137,8 +148,8 @@ divt {
     </td>
     <td>
     "Toward Fast and Optimal Robotic Pick-and-Place on a Moving Conveyor." Shuai D. Han, <b>Si Wei Feng</b>, and Jingjin Yu. IEEE Robotics and Automation Letters 5.2 (2019): 446-453. 
-    <a href="https://arxiv.org/abs/1912.08009.pdf"> paper </a> <a href="https://youtu.be/bIomJzjKXyc"> video </a>
-    <!-- [paper](https://arxiv.org/pdf/1912.08009.pdf) [video](https://youtu.be/bIomJzjKXyc) -->
+    <a href="https://arxiv.org/abs/1912.08009.pdf"> paper</a>, 
+    <a href="https://youtu.be/bIomJzjKXyc"> video </a>
     </td>
   </tr>
 
@@ -151,7 +162,8 @@ divt {
     </td>
     <td>
     "Optimal Perimeter Guarding with Heterogeneous Robot Teams: Complexity Analysis and Effective Algorithms." <b>Si Wei Feng</b>, and Jingjin Yu. IEEE Robotics and Automation Letters 5.2 (2019): 430-437. 
-    <a href="https://arxiv.org/pdf/1912.08591.pdf"> paper </a> <a href="https://youtu.be/6gYL0_B3YTk"> video </a>
+    <a href="https://arxiv.org/pdf/1912.08591.pdf"> paper</a>, 
+    <a href="https://youtu.be/6gYL0_B3YTk"> video </a>
     </td>
   </tr>
 
@@ -164,7 +176,8 @@ divt {
     </td>
     <td>
     "Efficient Algorithms for Optimal Perimeter Guarding." <b>Si Wei Feng</b>, Shuai D. Han, Kai Gao, Jingjin Yu. Robotics: Science and Systems (RSS 2019). 
-    <a href="https://arxiv.org/pdf/1905.04434.pdf"> paper </a> <a href="https://youtu.be/a6RHEJZDNrU?t=548"> talk </a>
+    <a href="https://arxiv.org/pdf/1905.04434.pdf"> paper</a>, 
+    <a href="https://youtu.be/a6RHEJZDNrU?t=548">talk</a>
     </td>
   </tr>
 </table>
