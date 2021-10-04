@@ -3,10 +3,22 @@ layout: default
 ---
 <!-- Homepage -->
 ### About
-I am a fourth year CS Ph.D. student working on Robotics at [Rutgers Robotics Lab](https://robotics.cs.rutgers.edu).
-I am advised by Prof. [Jingjin Yu](https://arc.cs.rutgers.edu) to develop and implement algorithms
-for multi robot systems. 
-Before that, I got my bachelor's degree on computer science from [USTC](https://en.ustc.edu.cn/).
+
+
+
+<table>
+  <tr>
+    <td>
+      <img width="800" src="resources/me.jpeg" alt="me"/>
+    </td>
+    <td>
+      I am a fourth year CS Ph.D. student working on Robotics at <a href="https://robotics.cs.rutgers.edu">Rutgers Robotics Lab</a>.
+      I am advised by Prof. <a href="https://arc.cs.rutgers.edu">Jingjin Yu</a> to develop and implement algorithms
+      for multi robot systems. 
+      Before that, I got my bachelor's degree on computer science from <a href="Rutgers Robotics Lab">USTC</a>.
+    </td>
+  </tr>
+</table>
 
 <!-- 
 
@@ -57,18 +69,8 @@ divt {
   text-align: left;
 }
 </style>
-<!-- 
-<figure><divp>
-    <img src="opg.png" alt="drawing" /> </divp>
-    <figcaption> Optimal Perimeter and Guarding (OPG<sub>2D</sub>, ORG<sub>2D</sub>). In this problem, the minimum length of k tiles to cover some perimeters</figcaption>
-</figure> -->
 
 ### Publications
-
-<!-- <a href="labeled_smaller.mp4"> video</a>
-<figure class = "video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure> -->
 
 <table>
   <tr>
@@ -99,10 +101,6 @@ divt {
 
   <tr>
     <td>
-      <!-- <video width="180" height="120" autoplay muted loop>
-          <source src="labeled_smaller_web.mp4" type="video/mp4"> 
-          <p>Your browser does not support the video tag.</p>
-      </video> -->
       <img src = "resources/icu-expo.png" alt="osg2d" width = "180" />
     </td>
     <td>
@@ -121,7 +119,7 @@ divt {
       </video>
     </td>
     <td>
-      "Team RuBot’s Experiences and Lessons from the ARIAC." <b>Si Wei Feng</b>, Teng Guo, Kostas E. Bekris and Jingjin Yu. Robotics and Computer-Integrated Manufacturing, 70, 102126. (RCIM 2020)). 
+      "Team RuBot’s Experiences and Lessons from the ARIAC." <b>Si Wei Feng</b>, Teng Guo, Kostas E. Bekris and Jingjin Yu. Robotics and Computer-Integrated Manufacturing, 70, 102126. (RCIM 2020). 
       <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0736584521000120"> paper</a>, 
       <a href = "https://youtu.be/7H7YLeJz2zE?t=3"> video</a>, 
       code:
@@ -135,7 +133,7 @@ divt {
     <img src = "resources/osg2d.png" alt="osg2d" width = "180" />
     </td>
     <td>
-    "Optimally Guarding Perimeters and Regions with Mobile Range Sensors." <b>Si Wei Feng</b> and Jingjin Yu. Robotics: Science and Systems (RSS 2020). 
+    "Optimally Guarding Perimeters and Regions with Mobile Range Sensors." <b>Si Wei Feng</b> and Jingjin Yu. Robotics: Science and Systems (R:SS 2020). 
     <a href="https://arxiv.org/pdf/2002.08477.pdf"> paper</a>, 
     <a href="https://youtu.be/1-PsAmQlVw8"> talk</a>, 
     <a href="https://github.com/ustcsiwei88/2D_Coverage"> code </a>
@@ -175,34 +173,13 @@ divt {
     </video>
     </td>
     <td>
-    "Efficient Algorithms for Optimal Perimeter Guarding." <b>Si Wei Feng</b>, Shuai D. Han, Kai Gao, Jingjin Yu. Robotics: Science and Systems (RSS 2019). 
+    "Efficient Algorithms for Optimal Perimeter Guarding." <b>Si Wei Feng</b>, Shuai D. Han, Kai Gao, Jingjin Yu. Robotics: Science and Systems (R:SS 2019). 
     <a href="https://arxiv.org/pdf/1905.04434.pdf"> paper</a>, 
     <a href="https://youtu.be/a6RHEJZDNrU?t=548">talk</a>
     </td>
   </tr>
 </table>
 
-
-
-<!-- 
-"On Minimizing the Number of Running Buffers for Tabletop Rearrangement." Kai Gao, **Si Wei Feng**, Jingjin Yu. Robotics: Science and Systems (RSS 2021) [link](https://arxiv.org/pdf/2105.06357.pdf)
-
-
-"Toward Fully Automated Metal Recycling Using Computer Vision and Non-Prehensile Manipulation." Shuai D. Han, Baichuan Huang, Sijie Ding, Changkyu Song, **Si Wei Feng**, Ming Xu, Hao Lin, Qingze Zou, Abdeslam Boularias, Jingjin Yu. IEEE International Conference on Automation Science & Engineering (CASE 2021). [link](https://arc-l.github.io/files/HanHuaYu21CASE.pdf)
-
-
-"Sensor Placement for Globally Optimal Coverage of 3D-Embedded Surfaces." **Si Wei Feng**, Kai Gao, Jie Gong, Jingjin Yu. International Conference on Robotics and Automation (ICRA 2021).
-
-
-"Team RuBot’s Experiences and Lessons from the ARIAC." **Si Wei Feng**, Teng Guo, Kostas E. Bekris and Jingjin Yu. Robotics and Computer-Integrated Manufacturing, 70, 102126. (RCIM 2020) [link](https://www.sciencedirect.com/science/article/abs/pii/S0736584521000120) [video](https://youtu.be/7H7YLeJz2zE)
-
-"Optimally Guarding Perimeters and Regions with Mobile Range Sensors." **Si Wei Feng** and Jingjin Yu. Robotics: Science and Systems (RSS 2020). [link](https://arxiv.org/abs/2002.08477) [talk](https://youtu.be/1-PsAmQlVw8)
-
-"Toward Fast and Optimal Robotic Pick-and-Place on a Moving Conveyor." Shuai D. Han, **Si Wei Feng**, and Jingjin Yu. IEEE Robotics and Automation Letters 5.2 (2019): 446-453. [link](https://arxiv.org/pdf/1912.08009.pdf) [video](https://youtu.be/bIomJzjKXyc)
-
-"Optimal Perimeter Guarding with Heterogeneous Robot Teams: Complexity Analysis and Effective Algorithms." **Si Wei Feng**, and Jingjin Yu. IEEE Robotics and Automation Letters 5.2 (2019): 430-437. [link](https://arxiv.org/pdf/1912.08591.pdf) [video](https://youtu.be/6gYL0_B3YTk)
-
-"Efficient Algorithms for Optimal Perimeter Guarding." **Si Wei Feng**, Shuai D. Han, Kai Gao, Jingjin Yu. Robotics: Science and Systems (RSS 2019). [link](https://arxiv.org/pdf/1905.04434.pdf) [talk](https://youtu.be/a6RHEJZDNrU?t=548) -->
 
 ---
 
