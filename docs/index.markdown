@@ -75,6 +75,18 @@ divt {
 <table>
   <tr>
     <td>
+      <img src = "resources/barrier_forming.png" alt="osg2d" width = "180" />
+    </td>
+    <td>
+      "Barrier Forming: Separating Polygonal Sets with Minimum Number of Lines." <b>Si Wei Feng</b>, Jingjin Yu. International Conference on Robotics and Automation (ICRA 2022). 
+      <a href="https://arxiv.org/pdf/2111.09151.pdf"> paper </a>
+      <a href="https://youtu.be/rln8M-7M9EI"> talk </a>
+      <a href="https://github.com/ustcsiwei88/barrier_forming"> code </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
       <video width="180" height="120" autoplay muted loop>
           <source src="resources/labeled_smaller_web.mp4" type="video/mp4"> 
           <p>Your browser does not support the video tag.</p>
