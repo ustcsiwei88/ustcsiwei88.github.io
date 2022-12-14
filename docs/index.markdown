@@ -12,7 +12,7 @@ layout: default
       <img width="800" src="resources/me.jpeg" alt="me"/>
     </td>
     <td>
-      I am a fourth year CS Ph.D. student working on Robotics at <a href="https://robotics.cs.rutgers.edu">Rutgers Robotics Lab</a>.
+      Hi, my name is Siwei Feng (冯思危), and my publication name is Si Wei Feng (S.W. Feng). I am a fifth year CS Ph.D. student working on Robotics at <a href="https://robotics.cs.rutgers.edu">Rutgers Robotics Lab</a>.
       I am advised by Prof. <a href="https://arc.cs.rutgers.edu">Jingjin Yu</a> to develop and implement algorithms
       for multi robot systems. 
       Before that, I got my bachelor's degree on computer science from <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China">USTC</a>.
