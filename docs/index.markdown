@@ -10,7 +10,7 @@ layout: default
   <tr>
     <td>
       <img width="600" src="resources/me.jpeg" alt="me"/>
-      <a href="https://github.com/ustcsiwei88/ustcsiwei88.github.io/tree/master/docs/resources/CV.pdf">CV</a>
+      <a href="https://github.com/ustcsiwei88/ustcsiwei88.github.io/tree/master/docs/resources/CV.pdf" type="application/pdf">CV</a>
     </td>
     <td>
       Hi, my name is Siwei Feng (冯思危), and my publication name is Si Wei Feng (S.W. Feng). I am a fifth year CS Ph.D. student working on Robotics at <a href="https://robotics.cs.rutgers.edu">Rutgers Robotics Lab</a>.
