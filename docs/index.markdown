@@ -9,13 +9,15 @@ layout: default
 <table>
   <tr>
     <td>
-      <img width="800" src="resources/me.jpeg" alt="me"/>
+      <img width="600" src="resources/me.jpeg" alt="me"/>
+      <a href="https://github.com/ustcsiwei88/ustcsiwei88.github.io/tree/master/docs/resources/CV.pdf">CV</a>
     </td>
     <td>
       Hi, my name is Siwei Feng (冯思危), and my publication name is Si Wei Feng (S.W. Feng). I am a fifth year CS Ph.D. student working on Robotics at <a href="https://robotics.cs.rutgers.edu">Rutgers Robotics Lab</a>.
       I am advised by Prof. <a href="https://arc-l.github.io/">Jingjin Yu</a> to develop and implement algorithms
       for multi robot systems. 
-      Before that, I got my bachelor's degree on computer science from <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China">USTC</a>.
+      Before that, I obtained my bachelor's degree on computer science from <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China">USTC</a>.
+      I plan to graduate at 2023 and I am open to full time industrial research or engineering opportunities.
     </td>
   </tr>
 </table>
