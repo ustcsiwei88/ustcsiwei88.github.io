@@ -17,7 +17,6 @@ layout: default
       I am advised by Prof. <a href="https://arc-l.github.io/">Jingjin Yu</a> to develop and implement algorithms
       for multi robot systems. 
       Before that, I obtained my bachelor's degree on computer science from <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China">USTC</a>.
-      I plan to graduate at 2023 and I am open to full time industrial research or engineering opportunities.
     </td>
   </tr>
 </table>
