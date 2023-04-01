@@ -10,7 +10,7 @@ layout: default
   <tr>
     <td align="mid">
       <img width="600" src="resources/me.jpeg" alt="me"/>
-      <a href="https://ustcsiwei88.github.io/resources/CV.pdf" type="application/pdf" style="text-align:center">CV</a>
+<!--       <a href="https://ustcsiwei88.github.io/resources/CV.pdf" type="application/pdf" style="text-align:center">CV</a> -->
     </td>
     <td>
       Hi, my name is Siwei Feng. I am a fifth year CS Ph.D. student working on Robotics at <a href="https://robotics.cs.rutgers.edu">Rutgers Robotics Lab</a>.
