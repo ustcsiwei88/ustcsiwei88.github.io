@@ -15,7 +15,7 @@ layout: default
     <td>
       Hi, my publication name is Si Wei Feng. I am a fifth year CS Ph.D. student working on Robotics at <a href="https://arc-l.github.io/">Rutgers Algorithmic Robotics and Control Lab</a>.
       I am advised by Prof. <a href="https://arc-l.github.io/group.html">Jingjin Yu</a> to develop and implement algorithms
-      for multi robot systems. 
+      for sensor layout optimization, pick-and-place system and multi-robot systems. 
       Before that, I obtained my bachelor's degree on computer science from <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China">USTC</a>.
     </td>
   </tr>
