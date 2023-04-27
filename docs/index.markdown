@@ -76,10 +76,38 @@ divt {
 <table>
   <tr>
     <td>
+      <video width="180" height="120" autoplay muted loop>
+          <source src="resources/vertical_sweep_web.mp4" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      "Optimal Allocation of Many Robot Guards for Sweep-Line Coverage." <b>Si Wei Feng</b>, Teng Guo and Jingjin Yu. International Conference on Robotics and Automation (ICRA) 2023.
+      <a href="https://arxiv.org/pdf/2302.04319.pdf"> paper </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <video width="180" height="120" autoplay muted loop>
+          <source src="resources/multi-drone-4x.mp4" type="video/mp4"> 
+          <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/glfsArLCVZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      "Polynomial Time Near-Time-Optimal Multi-Robot Path Planning in Three Dimensions with Applications to Large-Scale UAV Coordination." Teng Guo, <b>Si Wei Feng</b> and Jingjin Yu. International Conference on Intelligent Robots and Systems (IROS) 2022.
+      <a href="https://arxiv.org/pdf/2207.02735.pdf"> paper </a>
+      <a href="https://www.youtube.com/watch?v=glfsArLCVZU"> video </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
       <img src = "resources/barrier_forming.png" alt="osg2d" width = "180" />
     </td>
     <td>
-      "Barrier Forming: Separating Polygonal Sets with Minimum Number of Lines." <b>Si Wei Feng</b>, Jingjin Yu. International Conference on Robotics and Automation (ICRA 2022). 
+      "Barrier Forming: Separating Polygonal Sets with Minimum Number of Lines." <b>Si Wei Feng</b> and Jingjin Yu. International Conference on Robotics and Automation (ICRA) 2022.
       <a href="https://arxiv.org/pdf/2111.09151.pdf"> paper </a>
       <a href="https://youtu.be/rln8M-7M9EI"> talk </a>
       <a href="https://github.com/ustcsiwei88/barrier_forming"> code </a>
@@ -94,7 +122,7 @@ divt {
       </video>
     </td>
     <td>
-      "On Minimizing the Number of Running Buffers for Tabletop Rearrangement." Kai Gao, <b>Si Wei Feng</b>, Jingjin Yu. Robotics: Science and Systems (R:SS 2021) 
+      "On Minimizing the Number of Running Buffers for Tabletop Rearrangement." Kai Gao, <b>Si Wei Feng</b> and Jingjin Yu. Robotics: Science and Systems (R:SS) 2021.
       <a href="https://arxiv.org/pdf/2105.06357.pdf"> paper </a>
     </td>
   </tr>
@@ -107,7 +135,7 @@ divt {
       </video>
     </td>
     <td>
-      Toward Fully Automated Metal Recycling Using Computer Vision and Non-Prehensile Manipulation." Shuai D. Han, Baichuan Huang, Sijie Ding, Changkyu Song, <b>Si Wei Feng</b>, Ming Xu, Hao Lin, Qingze Zou, Abdeslam Boularias, Jingjin Yu. IEEE International Conference on Automation Science & Engineering (CASE 2021). 
+      Toward Fully Automated Metal Recycling Using Computer Vision and Non-Prehensile Manipulation." Shuai D. Han, Baichuan Huang, Sijie Ding, Changkyu Song, <b>Si Wei Feng</b>, Ming Xu, Hao Lin, Qingze Zou, Abdeslam Boularias and Jingjin Yu. IEEE International Conference on Automation Science & Engineering (CASE 2021). 
       <a href = "https://arc-l.github.io/files/HanHuaYu21CASE.pdf">paper</a>
     </td>
   </tr>
@@ -117,7 +145,7 @@ divt {
       <img src = "resources/icu-expo.png" alt="osg2d" width = "180" />
     </td>
     <td>
-      Sensor Placement for Globally Optimal Coverage of 3D-Embedded Surfaces." <b>Si Wei Feng</b>, Kai Gao, Jie Gong, Jingjin Yu. International Conference on Robotics and Automation (ICRA 2021). 
+      Sensor Placement for Globally Optimal Coverage of 3D-Embedded Surfaces." <b>Si Wei Feng</b>, Kai Gao, Jie Gong and Jingjin Yu. International Conference on Robotics and Automation (ICRA 2021). 
       <a href = "https://arxiv.org/pdf/2103.10521.pdf"> paper</a>, 
       <a href = "https://youtu.be/i5D-rCRcCpc">talk</a>, 
       <a href = "https://github.com/arc-l/3d_coverage">code</a>
@@ -158,7 +186,7 @@ divt {
       <img src = "resources/conveyor.png" alt="conveyer" width = "180" />
     </td>
     <td>
-    "Toward Fast and Optimal Robotic Pick-and-Place on a Moving Conveyor." Shuai D. Han, <b>Si Wei Feng</b>, and Jingjin Yu. IEEE Robotics and Automation Letters 5.2 (2019): 446-453. 
+    "Toward Fast and Optimal Robotic Pick-and-Place on a Moving Conveyor." Shuai D. Han, <b>Si Wei Feng</b> and Jingjin Yu. IEEE Robotics and Automation Letters 5.2 (2019): 446-453. 
     <a href="https://arxiv.org/abs/1912.08009.pdf"> paper</a>, 
     <a href="https://youtu.be/bIomJzjKXyc"> video </a>
     </td>
@@ -172,7 +200,7 @@ divt {
     </video>
     </td>
     <td>
-    "Optimal Perimeter Guarding with Heterogeneous Robot Teams: Complexity Analysis and Effective Algorithms." <b>Si Wei Feng</b>, and Jingjin Yu. IEEE Robotics and Automation Letters 5.2 (2019): 430-437. 
+    "Optimal Perimeter Guarding with Heterogeneous Robot Teams: Complexity Analysis and Effective Algorithms." <b>Si Wei Feng</b> and Jingjin Yu. IEEE Robotics and Automation Letters 5.2 (2019): 430-437. 
     <a href="https://arxiv.org/pdf/1912.08591.pdf"> paper</a>, 
     <a href="https://youtu.be/6gYL0_B3YTk"> video </a>
     </td>
@@ -186,7 +214,7 @@ divt {
     </video>
     </td>
     <td>
-    "Efficient Algorithms for Optimal Perimeter Guarding." <b>Si Wei Feng</b>, Shuai D. Han, Kai Gao, Jingjin Yu. Robotics: Science and Systems (R:SS 2019). 
+    "Efficient Algorithms for Optimal Perimeter Guarding." <b>Si Wei Feng</b>, Shuai D. Han, Kai Gao and Jingjin Yu. Robotics: Science and Systems (R:SS 2019). 
     <a href="https://arxiv.org/pdf/1905.04434.pdf"> paper</a>, 
     <a href="https://youtu.be/a6RHEJZDNrU?t=548">talk</a>
     </td>
