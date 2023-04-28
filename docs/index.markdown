@@ -17,6 +17,8 @@ layout: default
       I am advised by Prof. <a href="https://arc-l.github.io/group.html">Jingjin Yu</a> to develop and implement algorithms
       for multi-sensor layout optimization problems, pick-and-place systems and multi-robot systems. 
       Before that, I obtained my bachelor's degree in computer science and technology from <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China">USTC</a>.
+      <br>
+      Contact: siwei.feng AT rutgers.edu
     </td>
   </tr>
 </table>
@@ -225,7 +227,7 @@ divt {
 ---
 
 ### Academic Activities
-Reviewer for RA-L, IJRR, ICRA, IROS, IROS and AAMAS.
+Reviewer for RA-L, IJRR, ICRA, IROS, and AAMAS.
 
 Spotlight talk at RSS 2019, RSS 2020, ICRA 2021, ICRA 2022 and AIM workshop 2020.
 
