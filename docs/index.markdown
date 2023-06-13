@@ -229,7 +229,7 @@ divt {
 ### Academic Activities
 Reviewer for RA-L, IJRR, ICRA, IROS, and AAMAS.
 
-Spotlight talk at RSS 2019, RSS 2020, ICRA 2021, ICRA 2022 and AIM workshop 2020.
+Paper presenter at RSS 2019, RSS 2020, ICRA 2021, ICRA 2022, and AIM workshop 2020.
 
 ---
 
