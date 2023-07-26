@@ -73,6 +73,10 @@ divt {
 }
 </style>
 
+### News
+[08/2023] I am joining Autel Robotics as an Algorithm Engineer. \
+[06/2023] I successfully defended my PhD (with great thanks to my committee). My dissertation is available <a href="https://github.com/ustcsiwei88/dissertation_siwei/blob/master/thesis-compressed.pdf"> here </a>.
+
 ### Publications
 
 <table>
