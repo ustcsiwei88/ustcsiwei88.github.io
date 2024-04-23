@@ -13,12 +13,12 @@ layout: default
 <!--       <a href="https://ustcsiwei88.github.io/resources/CV.pdf" type="application/pdf" style="text-align:center">CV</a> -->
     </td>
     <td>
-      Hi, my name is Siwei Feng, and my publication name is Si Wei Feng. I am a fifth year CS Ph.D. student working on Robotics at <a href="https://arc-l.github.io/">Rutgers Algorithmic Robotics and Control Lab</a>.
-      I am advised by Prof. <a href="https://arc-l.github.io/group.html">Jingjin Yu</a> to develop and implement algorithms
-      for multi-sensor layout optimization problems, pick-and-place systems and multi-robot systems. 
+      Hi, my name is Siwei Feng, and my publication name is Si Wei Feng.
+      I am an algorithm engineer at Autel Robotics.
+      I did my Ph.D. in Computer Science at Rutgers University with a focus on Algorithmic Robotics. 
       Before that, I obtained my bachelor's degree in computer science and technology from <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China">USTC</a>.
       <br>
-      Contact: siwei.feng AT rutgers.edu
+      Contact: ustcsiwei88@gmail.com
     </td>
   </tr>
 </table>
