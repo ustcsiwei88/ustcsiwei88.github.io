@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Homepage
-email: siwei.feng@rutgers.edu
+email: ustcsiwei@gmail.com
 description:  # this means to ignore newlines until "baseurl:"
   Siwei Feng is a CS and Robotics Ph.D. student at Rutgers
 #baseurl: "" # the subpath of your site, e.g. /blog
@@ -35,25 +35,3 @@ theme: jekyll-theme-leap-day
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
   - jekyll-feed
-
-google_analytics: [UA-110401201-1]
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

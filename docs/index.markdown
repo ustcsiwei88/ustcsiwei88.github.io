@@ -11,12 +11,15 @@ layout: default
     <td align="mid">
       <img width="600" src="resources/me.jpeg" alt="me"/>
 <!--       <a href="https://ustcsiwei88.github.io/resources/CV.pdf" type="application/pdf" style="text-align:center">CV</a> -->
+<!-- autelrobotics.com/ -->
     </td>
     <td>
-      Hi, my name is Siwei Feng, and my publication name is Si Wei Feng.
-      I am an algorithm engineer at Autel Robotics.
-      I did my Ph.D. in Computer Science at Rutgers University with a focus on Algorithmic Robotics. 
-      Before that, I obtained my bachelor's degree in computer science and technology from <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China">USTC</a>.
+      Hi, my name is Siwei Feng (冯思危), and I am a path planning algorithm engineer at Autel Robotics. 
+      At Autel, I have the fortune to work on a lot of cool things on the EVO series drones. 
+      I finished my Ph.D. study in Computer Science at Rutgers (<a href="https://arc-l.github.io/"> ARCL </a>). 
+      At grad school, I had the main research focus on Algorithmic Robotics, with most research topics related to sensor layout optimization.
+      Before that, I obtained my bachelor's degree in computer science and technology from University of Science and Technology of China 
+       (<a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China">USTC</a>).
       <br>
       Contact: ustcsiwei88@gmail.com
     </td>
@@ -74,12 +77,21 @@ divt {
 </style>
 
 ### News
-[08/2023] I am joining Autel Robotics as an Algorithm Engineer. \
+[08/2023] I joined Autel Robotics as an Algorithm Engineer. \
 [06/2023] I successfully defended my PhD (with great thanks to my committee).
 
 ### Publications
 
 <table>
+  <tr>
+    <td>
+      <img src = "resources/multilayer_rearrangement.png" alt="multi_rearrangement" width = "180" />
+    </td>
+    <td>
+      "Optimal and Stable Multi-Layer Object Rearrangement on a Tabletop." Andy Xu*, Kai Gao*, Si Wei Feng*, Jingjin Yu. International Conference on Intelligent Robots and Systems (IROS) 2023.
+      <a href="https://arxiv.org/pdf/2306.14251.pdf"> [pdf]</a>
+    </td>
+  </tr>
   <tr>
     <td>
       <video width="180" height="120" autoplay muted loop>
@@ -89,7 +101,7 @@ divt {
     </td>
     <td>
       "Optimal Allocation of Many Robot Guards for Sweep-Line Coverage." <b>Si Wei Feng</b>, Teng Guo and Jingjin Yu. International Conference on Robotics and Automation (ICRA) 2023.
-      <a href="https://arxiv.org/pdf/2302.04319.pdf"> paper </a>
+      <a href="https://arxiv.org/pdf/2302.04319.pdf"> [pdf]</a>
     </td>
   </tr>
 
@@ -103,7 +115,7 @@ divt {
     </td>
     <td>
       "Polynomial Time Near-Time-Optimal Multi-Robot Path Planning in Three Dimensions with Applications to Large-Scale UAV Coordination." Teng Guo, <b>Si Wei Feng</b> and Jingjin Yu. International Conference on Intelligent Robots and Systems (IROS) 2022.
-      <a href="https://arxiv.org/pdf/2207.02735.pdf"> paper </a>
+      <a href="https://arxiv.org/pdf/2207.02735.pdf"> [pdf]</a> 
       <a href="https://www.youtube.com/watch?v=glfsArLCVZU"> video </a>
     </td>
   </tr>
@@ -114,7 +126,7 @@ divt {
     </td>
     <td>
       "Barrier Forming: Separating Polygonal Sets with Minimum Number of Lines." <b>Si Wei Feng</b> and Jingjin Yu. International Conference on Robotics and Automation (ICRA) 2022.
-      <a href="https://arxiv.org/pdf/2111.09151.pdf"> paper </a>
+      <a href="https://arxiv.org/pdf/2111.09151.pdf"> [pdf]</a>
       <a href="https://youtu.be/rln8M-7M9EI"> talk </a>
       <a href="https://github.com/ustcsiwei88/barrier_forming"> code </a>
     </td>
@@ -129,7 +141,7 @@ divt {
     </td>
     <td>
       "On Minimizing the Number of Running Buffers for Tabletop Rearrangement." Kai Gao, <b>Si Wei Feng</b> and Jingjin Yu. Robotics: Science and Systems (R:SS) 2021.
-      <a href="https://arxiv.org/pdf/2105.06357.pdf"> paper </a>
+      <a href="https://arxiv.org/pdf/2105.06357.pdf"> [pdf]</a>
     </td>
   </tr>
 
@@ -142,7 +154,7 @@ divt {
     </td>
     <td>
       Toward Fully Automated Metal Recycling Using Computer Vision and Non-Prehensile Manipulation." Shuai D. Han, Baichuan Huang, Sijie Ding, Changkyu Song, <b>Si Wei Feng</b>, Ming Xu, Hao Lin, Qingze Zou, Abdeslam Boularias and Jingjin Yu. IEEE International Conference on Automation Science & Engineering (CASE 2021). 
-      <a href = "https://arc-l.github.io/files/HanHuaYu21CASE.pdf">paper</a>
+      <a href = "https://arc-l.github.io/files/HanHuaYu21CASE.pdf"> [pdf]</a>
     </td>
   </tr>
 
@@ -152,9 +164,9 @@ divt {
     </td>
     <td>
       Sensor Placement for Globally Optimal Coverage of 3D-Embedded Surfaces." <b>Si Wei Feng</b>, Kai Gao, Jie Gong and Jingjin Yu. International Conference on Robotics and Automation (ICRA 2021). 
-      <a href = "https://arxiv.org/pdf/2103.10521.pdf"> paper</a>, 
-      <a href = "https://youtu.be/i5D-rCRcCpc">talk</a>, 
-      <a href = "https://github.com/arc-l/3d_coverage">code</a>
+      <a href = "https://arxiv.org/pdf/2103.10521.pdf"> [pdf]</a> 
+      <a href = "https://youtu.be/i5D-rCRcCpc"> talk </a> 
+      <a href = "https://github.com/arc-l/3d_coverage"> code </a>
     </td>
   </tr>
 
@@ -167,10 +179,10 @@ divt {
     </td>
     <td>
       "Team RuBot’s Experiences and Lessons from the ARIAC." <b>Si Wei Feng</b>, Teng Guo, Kostas E. Bekris and Jingjin Yu. Robotics and Computer-Integrated Manufacturing, 70, 102126. (RCIM 2020). 
-      <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0736584521000120"> paper</a>, 
-      <a href = "https://youtu.be/7H7YLeJz2zE?t=3"> video</a>, 
+      <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0736584521000120"> article</a> 
+      <a href = "https://youtu.be/7H7YLeJz2zE?t=3"> video</a> 
       code:
-      <a href = "https://github.com/ustcsiwei88/RuBot"> rubot2019</a>,  
+      <a href = "https://github.com/ustcsiwei88/RuBot"> rubot2019</a> 
       <a href = "https://github.com/ustcsiwei88/rubot2020">rubot2020 </a>
     </td>
   </tr>
@@ -181,9 +193,9 @@ divt {
     </td>
     <td>
     "Optimally Guarding Perimeters and Regions with Mobile Range Sensors." <b>Si Wei Feng</b> and Jingjin Yu. Robotics: Science and Systems (R:SS 2020). 
-    <a href="https://arxiv.org/pdf/2002.08477.pdf"> paper</a>, 
-    <a href="https://youtu.be/1-PsAmQlVw8"> talk</a>, 
-    <a href="https://github.com/ustcsiwei88/2D_Coverage"> code </a>
+    <a href="https://arxiv.org/pdf/2002.08477.pdf">[pdf]</a> 
+    <a href="https://youtu.be/1-PsAmQlVw8">talk</a> 
+    <a href="https://github.com/ustcsiwei88/2D_Coverage">code</a>
     </td>
   </tr>
 
@@ -193,7 +205,7 @@ divt {
     </td>
     <td>
     "Toward Fast and Optimal Robotic Pick-and-Place on a Moving Conveyor." Shuai D. Han, <b>Si Wei Feng</b> and Jingjin Yu. IEEE Robotics and Automation Letters 5.2 (2019): 446-453. 
-    <a href="https://arxiv.org/abs/1912.08009.pdf"> paper</a>, 
+    <a href="https://arxiv.org/abs/1912.08009.pdf"> [pdf]</a> 
     <a href="https://youtu.be/bIomJzjKXyc"> video </a>
     </td>
   </tr>
@@ -207,7 +219,7 @@ divt {
     </td>
     <td>
     "Optimal Perimeter Guarding with Heterogeneous Robot Teams: Complexity Analysis and Effective Algorithms." <b>Si Wei Feng</b> and Jingjin Yu. IEEE Robotics and Automation Letters 5.2 (2019): 430-437. 
-    <a href="https://arxiv.org/pdf/1912.08591.pdf"> paper</a>, 
+    <a href="https://arxiv.org/pdf/1912.08591.pdf"> [pdf]</a> 
     <a href="https://youtu.be/6gYL0_B3YTk"> video </a>
     </td>
   </tr>
@@ -221,8 +233,8 @@ divt {
     </td>
     <td>
     "Efficient Algorithms for Optimal Perimeter Guarding." <b>Si Wei Feng</b>, Shuai D. Han, Kai Gao and Jingjin Yu. Robotics: Science and Systems (R:SS 2019). 
-    <a href="https://arxiv.org/pdf/1905.04434.pdf"> paper</a>, 
-    <a href="https://youtu.be/a6RHEJZDNrU?t=548">talk</a>
+    <a href="https://arxiv.org/pdf/1905.04434.pdf"> [pdf]</a> 
+    <a href="https://youtu.be/a6RHEJZDNrU?t=548"> talk </a>
     </td>
   </tr>
 </table>
